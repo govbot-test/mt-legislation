@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Hearing - (H) Taxation",
+    "occurred_at": "2025-02-28T17:38:52+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0786?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 306"
+}

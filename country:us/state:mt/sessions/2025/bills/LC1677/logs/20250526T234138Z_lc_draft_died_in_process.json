@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(LC) Draft Died in Process",
+    "occurred_at": "2025-05-26T23:41:38+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/lc/bill/2/LC1677",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LC1677"
+}

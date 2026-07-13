@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Draft On Hold",
+    "occurred_at": "2024-12-01T21:15:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0168?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 380"
+}

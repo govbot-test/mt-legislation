@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Draft On Hold",
+    "occurred_at": "2024-11-26T15:14:37+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/lc/bill/2/LC0200",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LC0200"
+}

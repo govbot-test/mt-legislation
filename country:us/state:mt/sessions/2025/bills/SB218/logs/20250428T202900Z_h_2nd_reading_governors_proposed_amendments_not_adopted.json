@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "(H) 2nd Reading Governor's Proposed Amendments Not Adopted",
+    "occurred_at": "2025-04-28T20:29:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC1818?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 218"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Hearing - (H) Agriculture",
+    "occurred_at": "2025-02-21T21:13:37+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC2854?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 504"
+}

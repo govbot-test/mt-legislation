@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Veto Override Vote Mail Poll in Progress",
+    "occurred_at": "2025-05-27T21:42:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC2615?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 182"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Hearing - (H) State Administration",
+    "occurred_at": "2025-04-29T20:59:58+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC4445?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJ 40"
+}

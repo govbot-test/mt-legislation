@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(S) Taken from Table in Committee - (S) Education and Cultural Resources",
+    "occurred_at": "2025-04-15T21:50:30+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC1207?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 669"
+}

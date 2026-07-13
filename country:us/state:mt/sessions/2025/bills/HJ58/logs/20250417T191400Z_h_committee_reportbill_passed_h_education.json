@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) Committee Report--Bill Passed - (H) Education",
+    "occurred_at": "2025-04-17T19:14:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC2785?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJ 58"
+}

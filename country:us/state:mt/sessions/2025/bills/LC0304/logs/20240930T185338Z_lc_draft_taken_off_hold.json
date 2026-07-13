@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Draft Taken Off Hold",
+    "occurred_at": "2024-09-30T18:53:38+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/lc/bill/2/LC0304",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LC0304"
+}

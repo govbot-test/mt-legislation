@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) Committee Executive Action--Bill Passed - (H) Local Government",
+    "occurred_at": "2025-02-19T00:05:29+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC1499?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 486"
+}

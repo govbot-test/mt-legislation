@@ -1,0 +1,77 @@
+{
+  "legislative_session": "2025",
+  "identifier": "LC1799",
+  "title": "Generally revise election laws",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mt-2025-lc1799"
+    }
+  ],
+  "actions": [
+    {
+      "description": "(LC) Drafter Assigned",
+      "date": "2024-11-22T17:28:23+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:19Z"
+      }
+    },
+    {
+      "description": "(LC) Draft On Hold",
+      "date": "2025-01-17T14:45:37+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:19Z"
+      }
+    },
+    {
+      "description": "(LC) Draft Died in Process",
+      "date": "2025-05-27T04:30:06+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:19Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://bills.legmt.gov/#/lc/bill/2/LC1799",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "bill_draft_number": "LC1799",
+    "by_request_of": "Shane Morigeau"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mt/government",
+    "name": "Montana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mt"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:19Z"
+  }
+}

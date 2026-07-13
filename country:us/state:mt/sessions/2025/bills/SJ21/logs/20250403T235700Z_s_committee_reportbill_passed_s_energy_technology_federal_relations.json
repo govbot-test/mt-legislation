@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(S) Committee Report--Bill Passed - (S) Energy, Technology & Federal Relations",
+    "occurred_at": "2025-04-03T23:57:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0327?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJ 21"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) Fiscal Note Received",
+    "occurred_at": "2025-01-27T15:03:32+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC2024?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 256"
+}

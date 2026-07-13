@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(S) Transmitted to House",
+    "occurred_at": "2025-03-06T20:25:37+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC4170?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 404"
+}

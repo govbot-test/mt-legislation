@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(S) Died in Process",
+    "occurred_at": "2025-05-23T15:45:53+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0674?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 377"
+}

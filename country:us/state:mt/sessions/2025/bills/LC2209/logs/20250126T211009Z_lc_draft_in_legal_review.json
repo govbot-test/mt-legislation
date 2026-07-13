@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Draft in Legal Review",
+    "occurred_at": "2025-01-26T21:10:09+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/lc/bill/2/LC2209",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LC2209"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) Referred to Committee - (H) Energy, Technology and Federal Relations",
+    "occurred_at": "2024-12-20T22:11:55+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0246?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 45"
+}

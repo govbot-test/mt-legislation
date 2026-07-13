@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(S) Sent to Enrolling",
+    "occurred_at": "2025-05-01T17:32:06+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0614?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 40"
+}

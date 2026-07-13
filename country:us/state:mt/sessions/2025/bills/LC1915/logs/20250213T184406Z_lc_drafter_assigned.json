@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Drafter Assigned",
+    "occurred_at": "2025-02-13T18:44:06+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/lc/bill/2/LC1915",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LC1915"
+}

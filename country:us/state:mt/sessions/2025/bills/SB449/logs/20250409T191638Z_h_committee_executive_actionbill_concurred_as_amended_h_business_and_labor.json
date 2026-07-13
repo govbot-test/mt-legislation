@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Committee Executive Action--Bill Concurred as Amended - (H) Business and Labor",
+    "occurred_at": "2025-04-09T19:16:38+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC3200?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 449"
+}

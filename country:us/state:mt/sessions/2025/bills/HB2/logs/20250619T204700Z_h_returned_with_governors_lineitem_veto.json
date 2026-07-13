@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) Returned with Governor's Line-item Veto",
+    "occurred_at": "2025-06-19T20:47:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0708?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2"
+}

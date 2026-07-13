@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "(H) 2nd Reading Not Concurred",
+    "occurred_at": "2025-04-11T16:39:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2",
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0402?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 411"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Drafter Assigned",
+    "occurred_at": "2024-11-20T16:22:19+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/lc/bill/2/LC1758",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LC1758"
+}

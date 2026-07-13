@@ -1,0 +1,79 @@
+{
+  "legislative_session": "2025",
+  "identifier": "LC1862",
+  "title": "Revise maximum mill levy calculation laws",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Local Government",
+    "Taxation",
+    "Taxation--Property"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mt-2025-lc1862"
+    }
+  ],
+  "actions": [
+    {
+      "description": "(LC) Drafter Assigned",
+      "date": "2024-11-22T19:13:13+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:14Z"
+      }
+    },
+    {
+      "description": "(LC) Draft On Hold",
+      "date": "2024-12-02T15:06:10+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:14Z"
+      }
+    },
+    {
+      "description": "(LC) Draft Died in Process",
+      "date": "2025-05-27T19:22:56+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:14Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://bills.legmt.gov/#/lc/bill/2/LC1862",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "bill_draft_number": "LC1862",
+    "by_request_of": "Dave Fern"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mt/government",
+    "name": "Montana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mt"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:14Z"
+  }
+}

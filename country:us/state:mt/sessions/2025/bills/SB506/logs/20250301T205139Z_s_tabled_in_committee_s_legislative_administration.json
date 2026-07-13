@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(S) Tabled in Committee - (S) Legislative Administration",
+    "occurred_at": "2025-03-01T20:51:39+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0703?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 506"
+}

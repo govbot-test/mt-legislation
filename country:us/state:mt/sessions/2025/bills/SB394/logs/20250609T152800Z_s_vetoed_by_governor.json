@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(S) Vetoed by Governor",
+    "occurred_at": "2025-06-09T15:28:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC3228?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 394"
+}

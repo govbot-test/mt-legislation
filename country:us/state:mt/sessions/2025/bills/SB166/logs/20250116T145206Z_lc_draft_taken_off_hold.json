@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Draft Taken Off Hold",
+    "occurred_at": "2025-01-16T14:52:06+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC2641?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 166"
+}

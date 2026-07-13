@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Committee Report--Bill Concurred - (H) State Administration",
+    "occurred_at": "2025-03-20T19:34:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC2037?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 57"
+}

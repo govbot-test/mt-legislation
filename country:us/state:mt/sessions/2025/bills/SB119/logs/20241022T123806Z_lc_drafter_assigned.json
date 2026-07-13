@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Drafter Assigned",
+    "occurred_at": "2024-10-22T12:38:06+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0601?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 119"
+}

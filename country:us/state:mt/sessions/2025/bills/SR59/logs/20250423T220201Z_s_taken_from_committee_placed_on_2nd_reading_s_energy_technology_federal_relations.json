@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "(S) Taken from Committee; Placed on 2nd Reading - (S) Energy, Technology & Federal Relations",
+    "occurred_at": "2025-04-23T22:02:01+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2",
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC4424?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 59"
+}

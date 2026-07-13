@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(S) Referred to Committee - (S) Local Government",
+    "occurred_at": "2025-02-21T15:56:34+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC3409?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 363"
+}

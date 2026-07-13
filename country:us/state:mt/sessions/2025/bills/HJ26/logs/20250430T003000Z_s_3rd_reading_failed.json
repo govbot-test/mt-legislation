@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) 3rd Reading Failed",
+    "occurred_at": "2025-04-30T00:30:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "failure",
+      "failure",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC3181?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJ 26"
+}

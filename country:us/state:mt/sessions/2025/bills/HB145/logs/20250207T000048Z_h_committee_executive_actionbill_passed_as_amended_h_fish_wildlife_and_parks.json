@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) Committee Executive Action--Bill Passed as Amended - (H) Fish, Wildlife and Parks",
+    "occurred_at": "2025-02-07T00:00:48+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC1498?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 145"
+}

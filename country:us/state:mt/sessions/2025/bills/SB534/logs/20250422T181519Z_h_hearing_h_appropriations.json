@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Hearing - (H) Appropriations",
+    "occurred_at": "2025-04-22T18:15:19+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0416?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 534"
+}

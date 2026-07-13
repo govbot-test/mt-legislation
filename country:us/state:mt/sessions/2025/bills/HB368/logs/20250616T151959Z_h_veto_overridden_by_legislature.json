@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Veto Overridden by Legislature",
+    "occurred_at": "2025-06-16T15:19:59+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC3242?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 368"
+}

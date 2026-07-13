@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) 2nd Reading Motion to Amend Failed",
+    "occurred_at": "2025-04-09T21:33:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "failure",
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0916?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 614"
+}

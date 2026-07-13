@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Draft Ready for Delivery",
+    "occurred_at": "2025-02-17T19:41:07+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0151?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 427"
+}

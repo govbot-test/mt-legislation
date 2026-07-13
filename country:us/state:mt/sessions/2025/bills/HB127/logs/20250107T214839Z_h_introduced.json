@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Introduced",
+    "occurred_at": "2025-01-07T21:48:39+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0950?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 127"
+}

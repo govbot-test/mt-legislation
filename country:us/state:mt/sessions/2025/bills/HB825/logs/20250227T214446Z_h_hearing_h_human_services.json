@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Hearing - (H) Human Services",
+    "occurred_at": "2025-02-27T21:44:46+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC2893?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 825"
+}

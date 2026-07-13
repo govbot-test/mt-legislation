@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) Committee Report--Bill Passed as Amended - (H) Business and Labor",
+    "occurred_at": "2025-02-28T21:12:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC4187?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 610"
+}

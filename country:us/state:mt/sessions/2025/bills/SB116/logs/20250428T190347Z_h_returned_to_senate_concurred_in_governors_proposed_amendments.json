@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Returned to Senate Concurred in Governor's Proposed Amendments",
+    "occurred_at": "2025-04-28T19:03:47+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0221?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 116"
+}

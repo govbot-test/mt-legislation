@@ -1,0 +1,77 @@
+{
+  "legislative_session": "2025",
+  "identifier": "LC2986",
+  "title": "Generally revise oil and natural gas laws",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Gas and Oil"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mt-2025-lc2986"
+    }
+  ],
+  "actions": [
+    {
+      "description": "(LC) Drafter Assigned",
+      "date": "2024-12-17T17:29:20+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:25Z"
+      }
+    },
+    {
+      "description": "(LC) Draft On Hold",
+      "date": "2025-01-06T14:31:51+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:25Z"
+      }
+    },
+    {
+      "description": "(LC) Draft Died in Process",
+      "date": "2025-05-27T20:36:17+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:25Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://bills.legmt.gov/#/lc/bill/2/LC2986",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "bill_draft_number": "LC2986",
+    "by_request_of": "Brandon Ler"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mt/government",
+    "name": "Montana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mt"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:25Z"
+  }
+}

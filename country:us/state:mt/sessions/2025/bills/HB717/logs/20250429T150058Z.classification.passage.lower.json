@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) Signed by Speaker",
+    "occurred_at": "2025-04-29T15:00:58+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC3000?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 717"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) First Reading",
+    "occurred_at": "2025-02-10T19:54:19+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC2005?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 430"
+}

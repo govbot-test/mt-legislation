@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) Tabled in Committee - (H) Energy, Technology and Federal Relations",
+    "occurred_at": "2025-03-04T16:03:18+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC4018?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 695"
+}

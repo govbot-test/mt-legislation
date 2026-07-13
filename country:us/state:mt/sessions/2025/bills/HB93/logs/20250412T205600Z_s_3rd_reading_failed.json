@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) 3rd Reading Failed",
+    "occurred_at": "2025-04-12T20:56:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "failure",
+      "failure",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0318?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 93"
+}

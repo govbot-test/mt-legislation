@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(S) Fiscal Note Printed",
+    "occurred_at": "2025-03-03T19:25:42+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC1996?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 454"
+}

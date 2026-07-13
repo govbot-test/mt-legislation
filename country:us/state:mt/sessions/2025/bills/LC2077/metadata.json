@@ -1,0 +1,77 @@
+{
+  "legislative_session": "2025",
+  "identifier": "LC2077",
+  "title": "Generally revise election laws.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mt-2025-lc2077"
+    }
+  ],
+  "actions": [
+    {
+      "description": "(LC) Drafter Assigned",
+      "date": "2024-11-29T14:50:33+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:12Z"
+      }
+    },
+    {
+      "description": "(LC) Draft On Hold",
+      "date": "2024-11-29T14:50:33+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:12Z"
+      }
+    },
+    {
+      "description": "(LC) Draft Died in Process",
+      "date": "2025-05-22T16:07:54+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:12Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://bills.legmt.gov/#/lc/bill/2/LC2077",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "bill_draft_number": "LC2077",
+    "by_request_of": "David Bedey"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mt/government",
+    "name": "Montana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mt"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:12Z"
+  }
+}

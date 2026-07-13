@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Returned to Senate with Amendments",
+    "occurred_at": "2025-04-25T17:25:19+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC4235?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 553"
+}

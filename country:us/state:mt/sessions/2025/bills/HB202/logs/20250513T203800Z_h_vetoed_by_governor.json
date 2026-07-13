@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) Vetoed by Governor",
+    "occurred_at": "2025-05-13T20:38:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC3165?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 202"
+}

@@ -1,0 +1,77 @@
+{
+  "legislative_session": "2025",
+  "identifier": "LC3505",
+  "title": "Generally revise tax laws",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Taxation"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mt-2025-lc3505"
+    }
+  ],
+  "actions": [
+    {
+      "description": "(LC) Drafter Assigned",
+      "date": "2024-12-14T18:03:10+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:18Z"
+      }
+    },
+    {
+      "description": "(LC) Draft On Hold",
+      "date": "2024-12-14T18:03:10+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:18Z"
+      }
+    },
+    {
+      "description": "(LC) Draft Died in Process",
+      "date": "2025-05-27T15:29:58+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:18Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://bills.legmt.gov/#/lc/bill/2/LC3505",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "bill_draft_number": "LC3505",
+    "by_request_of": "Jodee Etchart"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mt/government",
+    "name": "Montana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mt"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:18Z"
+  }
+}

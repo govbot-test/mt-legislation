@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) Referred to Committee - (H) Taxation",
+    "occurred_at": "2025-03-29T14:16:04+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC1261?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 915"
+}

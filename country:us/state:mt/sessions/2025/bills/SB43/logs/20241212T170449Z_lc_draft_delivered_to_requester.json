@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Draft Delivered to Requester",
+    "occurred_at": "2024-12-12T17:04:49+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC2196?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 43"
+}

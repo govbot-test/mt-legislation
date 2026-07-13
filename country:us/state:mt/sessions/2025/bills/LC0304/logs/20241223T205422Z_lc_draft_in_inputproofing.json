@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Draft in Input/Proofing",
+    "occurred_at": "2024-12-23T20:54:22+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/lc/bill/2/LC0304",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LC0304"
+}

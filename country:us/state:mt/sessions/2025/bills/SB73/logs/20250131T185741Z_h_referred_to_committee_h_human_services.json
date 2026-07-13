@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) Referred to Committee - (H) Human Services",
+    "occurred_at": "2025-01-31T18:57:41+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0728?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 73"
+}

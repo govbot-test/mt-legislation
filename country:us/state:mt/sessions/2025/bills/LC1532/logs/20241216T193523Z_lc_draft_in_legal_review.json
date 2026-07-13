@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Draft in Legal Review",
+    "occurred_at": "2024-12-16T19:35:23+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/lc/bill/2/LC1532",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LC1532"
+}

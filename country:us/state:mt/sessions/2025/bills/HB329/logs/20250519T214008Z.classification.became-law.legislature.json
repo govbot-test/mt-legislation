@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Chapter Number Assigned",
+    "occurred_at": "2025-05-19T21:40:08+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC4306?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 329"
+}

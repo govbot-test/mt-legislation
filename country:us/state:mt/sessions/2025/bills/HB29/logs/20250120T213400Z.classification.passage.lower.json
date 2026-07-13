@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "(H) 3rd Reading Passed",
+    "occurred_at": "2025-01-20T21:34:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC0078?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 29"
+}

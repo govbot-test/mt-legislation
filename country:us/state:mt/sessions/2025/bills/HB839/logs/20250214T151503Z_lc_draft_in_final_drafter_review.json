@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Draft in Final Drafter Review",
+    "occurred_at": "2025-02-14T15:15:03+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC4083?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 839"
+}

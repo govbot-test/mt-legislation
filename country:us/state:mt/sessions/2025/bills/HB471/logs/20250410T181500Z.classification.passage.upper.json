@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "(S) 3rd Reading Concurred",
+    "occurred_at": "2025-04-10T18:15:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC1273?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 471"
+}

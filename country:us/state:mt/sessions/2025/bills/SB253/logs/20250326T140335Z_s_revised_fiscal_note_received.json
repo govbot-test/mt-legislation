@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(S) Revised Fiscal Note Received",
+    "occurred_at": "2025-03-26T14:03:35+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC3480?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 253"
+}

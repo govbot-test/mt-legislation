@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(S) Committee Executive Action--Bill Concurred as Amended - (S) Finance and Claims",
+    "occurred_at": "2025-01-15T21:33:52+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC1374?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1"
+}

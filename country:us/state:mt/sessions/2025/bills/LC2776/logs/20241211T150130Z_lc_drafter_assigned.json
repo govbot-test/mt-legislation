@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Drafter Assigned",
+    "occurred_at": "2024-12-11T15:01:30+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/lc/bill/2/LC2776",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LC2776"
+}

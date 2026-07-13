@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Hearing - (H) Business and Labor",
+    "occurred_at": "2025-03-01T21:02:44+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC2949?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 797"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(S) Committee Executive Action--Bill Concurred as Amended - (S) Natural Resources",
+    "occurred_at": "2025-03-28T21:37:59+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC2338?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 270"
+}

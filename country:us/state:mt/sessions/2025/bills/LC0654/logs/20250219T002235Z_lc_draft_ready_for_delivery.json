@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(LC) Draft Ready for Delivery",
+    "occurred_at": "2025-02-19T00:22:35+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/lc/bill/2/LC0654",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LC0654"
+}

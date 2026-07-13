@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "(H) Fiscal Note Requested",
+    "occurred_at": "2025-01-20T20:01:47+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC1377?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 262"
+}

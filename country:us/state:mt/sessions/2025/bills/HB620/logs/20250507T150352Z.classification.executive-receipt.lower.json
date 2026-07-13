@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "(H) Transmitted to Governor",
+    "occurred_at": "2025-05-07T15:03:52+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://bills.legmt.gov/#/laws/bill/2/LC2295?open_tab=sum",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 620"
+}
