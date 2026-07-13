@@ -677,6 +677,7 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:24Z"
+    "logs_latest_update": "2026-07-13T06:04:24Z",
+    "text_extraction_latest_update": "2026-07-13T21:47:17.220730Z"
   }
 }
